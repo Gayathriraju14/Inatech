@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Checkng
+    {
+        public static void Main() { 
+        string ans1, ans2, ans3;
+            Console.WriteLine("Do you have travel history? Yes or No");
+            ans1=  Console.ReadLine();
+            if (ans1 == "Yes")
+            {
+                Console.WriteLine("Do you have temperature? Yes or No");
+                ans2= Console.ReadLine();
+                if (ans2 == "Yes")
+                {
+                    Console.WriteLine("Do you have cough or sneeze? Yes or No");
+                    ans3= Console.ReadLine();
+                    if (ans3 == "Yes")
+                    {
+                        Console.WriteLine("Swab Test");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Quarantine and Fever Medicine");
+                    }
+                }
+
+                else{
+                    Console.WriteLine("Home Quarantine for 28 days");
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("Safe!!!");
+            }
+
+
+
+        }
+    }
+}

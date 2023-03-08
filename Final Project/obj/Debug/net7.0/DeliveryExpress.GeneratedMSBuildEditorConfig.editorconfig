@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DeliveryExpress
+build_property.RootNamespace = DeliveryExpress
+build_property.ProjectDir = D:\Inatech Training\DeliveryExpress\DeliveryExpress\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Inatech Training\DeliveryExpress\DeliveryExpress
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ29udGFjdFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/ServiceGuidance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcU2VydmljZUd1aWRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Customer/Tips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcQ29udGFjdFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/ServiceGuidance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcU2VydmljZUd1aWRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/DeliveryExecutive/Tips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlFeGVjdXRpdmVcVGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Home/ServiceGuidance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlR3VpZGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Home/Tips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XENvbnRhY3RVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/ServiceGuidance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XFNlcnZpY2VHdWlkYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/OrderList/Tips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaXN0XFRpcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Inatech Training/DeliveryExpress/DeliveryExpress/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d17uhq37hq
